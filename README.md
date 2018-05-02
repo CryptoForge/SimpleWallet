@@ -1,2 +1,2 @@
 # SimpleWallet
-SnowGem Simple Wallet
+Zero Simple Wallet
